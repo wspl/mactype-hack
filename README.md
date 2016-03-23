@@ -6,3 +6,4 @@ Solutions for using mactype in some weird programs.
 * [Microsoft Visual Studio Code](vscode.md)
 * [Github Atom](atom.md)
 * [Universal Windows Application](http://tieba.baidu.com/p/4040192792)
+* [*Chromium](chromium.md)
