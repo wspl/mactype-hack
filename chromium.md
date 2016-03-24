@@ -1,7 +1,5 @@
 #*Chromium
-Latest supported version: >=43
-
-最后支持的版本： >=43
+Latest supported version/最后支持的版本： >=43
 
 ##Solution/解决方案
 
