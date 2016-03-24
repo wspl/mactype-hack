@@ -1,5 +1,5 @@
 #*Chromium
-Latest supported version/最后支持的版本： >=43
+Latest supported version / 最后支持的版本： >=43
 
 ##Solution/解决方案
 
@@ -11,6 +11,6 @@ Disable `direct-write`, you can found this option in `chrome://flags`
 
 
 ####STEP 2/步骤 2
-Fix rendering bugs (Lang: Chinese)/修复渲染 Bugs（缺字、英文字体粗细不一）:
+Fix rendering bugs (Lang: Chinese) / 修复渲染 Bugs（缺字、英文字体粗细不一）:
 
 [http://www.jianshu.com/p/fdaa696a8eb4](http://www.jianshu.com/p/fdaa696a8eb4)
