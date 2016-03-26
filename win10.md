@@ -14,8 +14,8 @@ Latest supported version / 最后支持的版本： 14291
 
 解压缩，推荐使用压缩包中 NetFX4.0 文件夹中的版本，按照以下方式重命名两个文件，并单独将这两个文件覆盖到 MacType 根目录：
 
-`EasyHook32.dll` -> `EasyHK32.dll`
+`EasyHook32.dll` → `EasyHK32.dll`
 
-`EasyHook64.dll` -> `EasyHK64.dll`
+`EasyHook64.dll` → `EasyHK64.dll`
 
 自此，MacType 应该就可以正常工作了。
