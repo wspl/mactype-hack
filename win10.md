@@ -18,4 +18,4 @@ Latest supported version / 最后支持的版本： 14291
 
 `EasyHook64.dll` → `EasyHK64.dll`
 
-至此，MacType 应该就可以正常工作了。
+至此，MacType 应该就可以正常工作了。经测试，可以支持「注册表兼容模式」以及「独立托盘模式」。
