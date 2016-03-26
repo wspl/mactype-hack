@@ -14,4 +14,4 @@ Solutions for applying MacType to not supported programs/os.
 
 ## Operating System / 操作系统
 
-* [Windows 10 Insider Preview 14291](win10-14291.md)
+* [Windows 10 Insider Preview](win10.md)
