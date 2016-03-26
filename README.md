@@ -6,6 +6,7 @@ Solutions for applying MacType to not supported programs/os.
 ## Programs / 程序
 
 * [*Chromium](chromium.md)
+* [Firefox](firefox.md)
 * [Microsoft Visual Studio 2010+](https://www.textarea.com/simodorg/solve-mactype-doesnt-work-in-visual-studio-2015-251/)
 * [Microsoft Visual Studio Code](vscode.md)
 * [Github Atom](atom.md)
