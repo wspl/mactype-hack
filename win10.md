@@ -1,9 +1,9 @@
 #Windows 10 Insider Preview
-Latest supported version / 最后支持的版本： 14291
+Latest supported version / 最后支持的版本： 14295
 
 ##Solution/解决方案
 
-在更新 14291 之前，请务必将 MacType 的注册表模式以及开机启动禁用，否则更新后可能无法正常进入系统，例如出现蓝屏。
+在更新 14295 之前，请务必将 MacType 的注册表模式以及开机启动禁用，否则更新后可能无法正常进入系统，例如出现蓝屏。
 
 原因是 MacType 使用了一个叫做 [EasyHook](http://easyhook.github.io/index.html) 的库，但是由于版本太旧，导致无法兼容新版 Windows 10 预览版。
 
