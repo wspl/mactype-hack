@@ -5,7 +5,7 @@ All versions are supported.
 
 **Launching your VSCode with argument `--disable-direct-write`.**
 
-You can do that via modifing shortcut property:
+You can do this via modifing shortcut property:
 
 (You can find the shortcut on `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio Code`)
 
