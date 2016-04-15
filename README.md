@@ -11,7 +11,7 @@ Solutions for applying MacType to not supported programs/os.
 * [Microsoft Visual Studio Code](vscode.md)
 * [Github Atom](atom.md)
 * [Universal Windows Application (Experimental/不建议使用)](http://tieba.baidu.com/p/4040192792)
-* [JetBrains Series: Intellij IDEA,PHPStorm,PyCharm etc.](jetbrains.md)
+* [JetBrains Series: Intellij IDEA, Android Studio, PHPStorm, PyCharm etc.](jetbrains.md)
 
 
 ## Operating System / 操作系统
