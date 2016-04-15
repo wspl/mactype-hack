@@ -10,12 +10,12 @@ You can do this by replacing file `<VS Code Location>\resources\app\out\vs\workb
 
 where `<VS Code Location>` is the folder, where VS Code is installed.
 
-Then kill all of your VS Code processes and start editor again.
+Then kill all of your VS Code processes if it's opened and start editor again.
 
 ---
 
 ## By adding flag `--disable-direct-write` to shortcut
-Works on any VS Code version, **only if opened from shortcut**
+Works on any VS Code version, **only if opened from shortcut**.
 
 You'll most likely find the shortcut in `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio Code`
 
