@@ -17,3 +17,9 @@ Solutions for applying MacType to not supported programs/os.
 ## Operating System / 操作系统
 
 * [Windows 10 Insider Preview](win10.md)
+
+## Contributor / 贡献者
+
+* [Plutonist (wspl)](https://github.com/wspl)
+* [Wowse](https://github.com/wowse)
+* [foisonocean](foisonocean)
