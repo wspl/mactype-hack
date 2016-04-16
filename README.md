@@ -14,11 +14,11 @@ Solutions for applying MacType to not supported programs/os.
 * [JetBrains Series: Intellij IDEA, Android Studio, PHPStorm, PyCharm etc.](jetbrains.md)
 
 
-## Operating System / 操作系统
+## Operating Systems / 操作系统
 
 * [Windows 10 Insider Preview](win10.md)
 
-## Contributor / 贡献者
+## Contributors / 贡献者
 
 * [Plutonist (wspl)](https://github.com/wspl)
 * [Wowse](https://github.com/wowse)
