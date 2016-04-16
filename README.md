@@ -22,4 +22,4 @@ Solutions for applying MacType to not supported programs/os.
 
 * [Plutonist (wspl)](https://github.com/wspl)
 * [Wowse](https://github.com/wowse)
-* [foisonocean](foisonocean)
+* [foisonocean](https://github.com/foisonocean)
