@@ -3,7 +3,7 @@
 There are two ways for tweaking VS Code to work with MacType, both have their pros and cons.
 
 ## By changing code
-**Works on 1.0.0**, from all CLI, shortcut and original exe.
+**Works on 1.3**, from all CLI, shortcut and original exe.
 Other versions might work too but it's not suggested to try as it would break the editor.
 
 You can do this by replacing file `<VS Code Location>\resources\app\out\vs\workbench\electron-main\main.js` by [this one](https://raw.githubusercontent.com/wspl/mactype-hack/master/vscode/main.js)
