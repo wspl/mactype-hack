@@ -5,7 +5,7 @@
 **(This is an untranslated version, welcome translation)**
 
 ## 简介
-　　霓虹万能的民间程序员终于研究出了修复 Direct Write 渲染效果的黑科技，我在 Insider Preview Build.14393 上试用，表示效果很惊艳。其一是修正了糟糕的字体畸形问题，其二就是启用/增强了灰阶抗锯齿。
+　　万能的11区技术宅终于研究出了修复 Direct Write 渲染效果的黑科技，我在 Insider Preview Build.14393 上试用，表示效果很惊艳。其一是修正了糟糕的字体畸形问题，其二就是启用/增强了灰阶抗锯齿。
 
 ![放个截图让大家感受一下](https://cloud.githubusercontent.com/assets/2133311/17010686/c5a335d8-4f38-11e6-95db-cae19fa2e7d3.png)
 
