@@ -5,6 +5,8 @@ Solutions for applying MacType to not supported programs/os.
 
 ## Solutions / 解决方案
 
+* [**Direct-Write Applications**](https://github.com/wspl/mactype-hack/blob/master/direct-write.md)
+
 * **Programs / 程序**
 
   * [*Chromium](chromium.md)
