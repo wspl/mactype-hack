@@ -15,11 +15,13 @@
 ## 使用方法
 
 1. 先到相关 Repo 获取最新的 Release：[https://github.com/silight-jp/MacType-Patch/releases](https://github.com/silight-jp/MacType-Patch/releases)
-
 2. 解压后，将 `EasyHK32.dll` 和 `EasyHK64.dll` 还有 `win8.1 or later` 文件夹内的 `UserParams.ini` 全部拷贝到 MacType 的程序目录并覆盖同名文件
-
 3. 重启 MacType，开启 Chromium 的 Direct-Write 渲染。
-
 4. 若是没有效果，尝试将 `EasyHK32.dll` 复制到 `C:\Windows\System32` 下，将 `EasyHK64.dll` 复制到 `C:\Windows\SysWOW64` 下，重启 MacType，再尝试效果。
-
 5. 如果上面所有操作都执行完后还是没有效果，尝试重启系统，或者修改兼容性相关选项。
+
+
+## 存在问题
+
+1. 不支持 Edge 以及其他 UWP 应用，具体原因不详，按照作者的建议使用注册表模式也没有效果。
+2. 在 Office 2016 下没有效果 / 效果不佳
