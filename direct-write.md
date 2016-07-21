@@ -20,9 +20,13 @@
 
 3. 重启 MacType，开启 Chromium 的 Direct-Write 渲染。
 
-4. 若是没有效果，尝试将 `EasyHK32.dll` 复制到 `C:\Windows\System32` 下，将 `EasyHK64.dll` 复制到 `C:\Windows\SysWOW64` 下，重启 MacType，再尝试效果。
+4. 若是没有效果，尝试：
 
-5. 如果上面所有操作都执行完后还是没有效果，尝试重启系统，或者修改兼容性相关选项。
+    将 `EasyHK32.dll` 复制到 `C:\Windows\SysWOW64` 目录下
+
+    将 `EasyHK32.dll` 与 `EasyHK64.dll` 复制到 `C:\Windows\System32` 目录下，重启 MacType，测试是否生效。
+
+5. 如果上面所有操作都执行完后还是没有效果，尝试重启系统，或者修改 MacType 的兼容性相关选项。
 
 
 ## 存在问题
