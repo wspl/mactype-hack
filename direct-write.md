@@ -1,6 +1,8 @@
 # Direct-Write 解决方案
 
-参考：[http://silight.hatenablog.jp/entry/MacTypePatch](http://silight.hatenablog.jp/entry/MacTypePatch)
+参考 / Reference：[http://silight.hatenablog.jp/entry/MacTypePatch](http://silight.hatenablog.jp/entry/MacTypePatch)
+
+**(This is an untranslated version, welcome translation)**
 
 ## 简介
 　　霓虹万能的民间程序员终于研究出了修复 Direct Write 渲染效果的黑科技，我在 Insider Preview Build.14393 上试用，表示效果很惊艳。其一是修正了糟糕的字体畸形问题，其二就是启用/增强了灰阶抗锯齿。
