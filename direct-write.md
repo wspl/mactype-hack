@@ -35,4 +35,4 @@
 
 2. 在 Office 2016 下没有效果 / 效果不佳
 
-3. Google Chrome 52+ 没有效果
+3. Google Chrome 52+ 效果似乎并没有那么好，但是还算凑活
