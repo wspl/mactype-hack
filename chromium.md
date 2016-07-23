@@ -1,5 +1,7 @@
 #*Chromium
-Latest supported version / 最后支持的版本： >=43
+Latest supported version / 最后支持的版本： <52
+
+52 之后的版本请配合 [这个](https://github.com/wspl/mactype-hack/blob/master/direct-write.md) 进行优化，各位可以在 issues 里反馈使用前后效果比较，以方便我继续更新这个文档。
 
 ##Solution/解决方案
 
