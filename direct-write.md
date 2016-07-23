@@ -5,7 +5,7 @@
 **(This is an untranslated version, welcome translation)**
 
 ## 简介
-　　万能的 11 区技术宅终于研究出了修复 Direct Write 渲染效果的黑科技，我在 Insider Preview Build.14393 上试用，表示效果很惊艳。其一是修正了糟糕的字体畸形问题，其二就是启用/增强了灰阶抗锯齿。
+　　万能的 11 区技术宅终于研究出了修复 Direct Write 渲染效果的黑科技，我在 Insider Preview Build.14393 上试用，表示效果很惊艳。其一是修正了糟糕的字体畸形问题，其二就是启用/增强了灰阶抗锯齿。下方截图是在 Chromium 50 在 1440p 分辨率 150% 缩放下开启 Direct-Write 下的渲染效果：
 
 ![放个截图让大家感受一下](https://cloud.githubusercontent.com/assets/2133311/17010686/c5a335d8-4f38-11e6-95db-cae19fa2e7d3.png)
 
@@ -35,5 +35,5 @@
 
 2. 在 Office 2016 下没有效果 / 效果不佳
 
-3. Google Chrome 52+ 效果似乎并没有那么好，但是还算凑活：
+3. Google Chrome 52+ 效果似乎并没有那么好，但是还算凑活，下面是 Google Chrome 53 在 1440p 分辨率 150% 缩放下的渲染效果：
 ![Google Chrome 53 显示效果](https://cloud.githubusercontent.com/assets/2133311/17075539/a8141af0-50c8-11e6-996a-53e5e69aeb86.png)
