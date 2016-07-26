@@ -35,5 +35,5 @@
 
 2. 在 Office 2016 下没有效果 / 效果不佳
 
-3. Google Chrome 52+ 效果似乎并没有那么好，但是还算凑活，下面是 Google Chrome 53 在 1440p 分辨率 150% 缩放下的渲染效果：
-![Google Chrome 53 显示效果](https://cloud.githubusercontent.com/assets/2133311/17075539/a8141af0-50c8-11e6-996a-53e5e69aeb86.png)
+3. Google Chrome 52+ 字体渲染风格有些不同，其实习惯以后还是比较良好的，下面是 Google Chrome 53 在 1440p 分辨率 150% 缩放下的渲染效果：
+![Google Chrome 53 显示效果](https://cloud.githubusercontent.com/assets/2133311/17125030/95cf9b7e-5322-11e6-8cd2-b8899dc51427.png)
