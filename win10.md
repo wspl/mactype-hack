@@ -1,5 +1,5 @@
 #Windows 10 Insider Preview
-Latest supported version / 最后支持的版本： 最新的预览版
+Latest supported version / 最后支持的版本： 最新的预览版 / 一周年版本
 
 ##Solution/解决方案
 
