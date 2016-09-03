@@ -3,7 +3,7 @@
 
 Solutions for applying MacType to not supported programs/os.
 
-## MacType 重要更新
+## 【MacType 重要更新】
 
 最新的 MacType 已经内置 Direct-Write 应用程序渲染方案：
 
