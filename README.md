@@ -15,6 +15,8 @@ Solutions for applying MacType to not supported programs/os.
 
 若需要开启 Direct-Write 渲染需要在配置文件中添加 `DirectWrite=1` 以启用。
 
+**若曾经使用过 MacType-Patch 的用户请删除曾经添加的两个 EasyHook DLL 文件。**
+
 
 
 （感慨一下，MacType 终于重新开始维护了，连官方网站都有了）
