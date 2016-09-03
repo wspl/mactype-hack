@@ -3,9 +3,23 @@
 
 Solutions for applying MacType to not supported programs/os.
 
-## Solutions / 解决方案
+## MacType 重要更新
 
-* [**Direct-Write Applications**](https://github.com/wspl/mactype-hack/blob/master/direct-write.md)
+最新的 MacType 已经内置 Direct-Write 应用程序渲染方案：
+
+下载地址：[https://github.com/snowie2000/mactype/releases](https://github.com/snowie2000/mactype/releases)
+
+官方网站：[http://www.mactype.net/](http://www.mactype.net/)
+
+
+
+若需要开启 Direct-Write 渲染需要在配置文件中添加 `DirectWrite=1` 以启用。
+
+
+
+（感慨一下，MacType 终于重新开始维护了，连官方网站都有了）
+
+## Solutions / 解决方案
 
 * **Programs / 程序**
 
