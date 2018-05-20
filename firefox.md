@@ -1,4 +1,4 @@
-#FireFox
+# FireFox
 
 **步骤1** 地址栏中输入 `about:config` 打开设置页面
 
