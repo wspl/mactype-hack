@@ -3,7 +3,7 @@
 
 Solutions for applying MacType to not supported programs/os.
 
-## 面向独显用户的终极字体美化技巧
+## 面向独显用户的终极字体美化技巧（有些核显也行，如 AMD Ryzen 4500U）
 解决方案：开启 “超虚拟分辨率” 功能，基本所有 14 年后推出的新显卡都支持，Nvidia 显卡叫做 DSR，AMD 显卡叫做 VSR。
 
 例如我目前正在使用 2560*1440 分辨率的显示器，GTX1080 作为输出显卡。
